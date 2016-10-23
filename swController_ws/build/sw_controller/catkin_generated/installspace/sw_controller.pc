@@ -1,0 +1,8 @@
+prefix=/home/bridget/github/swController_ws/install
+
+Name: sw_controller
+Description: Description of sw_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bridget/github/swController_ws/install/lib 
+Requires: 
