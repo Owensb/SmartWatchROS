@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "sw_controller")
+set(sw_controller_MAINTAINER "bridget <bridget@todo.todo>")
+set(sw_controller_DEPRECATED "")
+set(sw_controller_VERSION "0.0.0")
+set(sw_controller_BUILD_DEPENDS "message_generation" "roscpp" "rospy" "std_msgs" "turtlesim")
+set(sw_controller_RUN_DEPENDS "message_runtime" "roscpp" "rospy" "std_msgs" "turtlesim")
+set(sw_controller_BUILDTOOL_DEPENDS "catkin" "catkin")

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/SendPositionData" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="qB89FpOdnn.SendPositionData" package="qB89FpOdnn" required_version="2.2"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+	<feature name="http://developer.samsung.com/tizen/feature/network.accessory_protocol"/>
+	<feature name="http://tizen.org/feature/network.internet"/>
+	<feature name="http://tizen.org/feature/network.nfc"/>
+	<feature name="http://tizen.org/feature/network.push"/>
+	<feature name="http://tizen.org/feature/network.wifi"/>
+	<feature name="http://tizen.org/feature/sensor.gyroscope"/>
+	<feature name="http://tizen.org/feature/sensor.magnetometer"/>
+ <icon src="icon.png"/>
+ <name>SendPositionData</name>
+ 
+<tizen:privilege name="http://tizen.org/privilege/internet"/>
+</widget>
